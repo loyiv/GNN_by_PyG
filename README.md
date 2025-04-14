@@ -1,13 +1,13 @@
 # 📘 Hands-on Graph Neural Networks with PyTorch Geometric
 
-欢迎来到本仓库！这是一个**图神经网络（GNN）入门学习项目**，基于 [PyTorch Geometric (PyG)](https://github.com/pyg-team/pytorch_geometric)，  
+这是一个**图神经网络（GNN）入门学习项目**，基于 [PyTorch Geometric (PyG)](https://github.com/pyg-team/pytorch_geometric)，  
 涵盖了从节点分类到图分类，再到大规模图的 GNN 训练方法，适合初学者动手实践与理解核心原理。
 
 ---
-
+[![PyG](PYG_arch.png)]
 ## 📚 教程结构
 
-本教程共包含三大部分，每部分配有注释清晰的代码与详细的中文讲解。
+本仓库共包含三大部分，每部分配有注释清晰的代码与详细的中文讲解。
 
 ### 1. [节点分类任务](./node_classification)
 - 使用 KarateClub 与 Cora 数据集
